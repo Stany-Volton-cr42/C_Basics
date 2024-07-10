@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "array.C": "cpp",
+        "Array_in_loops.C": "cpp",
+        "Array_in_loop.C": "cpp",
+        "Also_define.C": "cpp",
+        "add_p.C": "cpp",
+        "pointer_sub.C": "cpp",
+        "input_p.C": "cpp",
+        "arr_p.C": "cpp",
+        "2D_array.C": "cpp",
+        "add_num.C": "cpp",
+        "print_m.C": "cpp",
+        "lab3da.C": "cpp",
+        "matlab.C": "cpp"
+    }
+}
